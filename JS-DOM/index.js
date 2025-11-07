@@ -13,7 +13,7 @@ const child=document.createElement("div");
 child.className="card";
 child.appendChild(image);
 child.appendChild(h3);
-child.appendChild(h4);
+child.appendChild(h4);  
 child.appendChild(btn);
 const parent=document.getElementById("root");
 parent.appendChild(child);
